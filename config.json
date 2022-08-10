@@ -1,0 +1,61 @@
+{
+  "name": "Nós queremos te ouvir. Escreva o nome do seu prato no campo abaixo",
+  "theme": {
+    "colors": {
+      "primary": {
+        "050": "#E3F9E5",
+        "100": "#C1EAC5",
+        "200": "#A3D9A5",
+        "300": "#7BC47F",
+        "400": "#57AE5B",
+        "500": "#3F9142",
+        "600": "#2F8132",
+        "700": "#207227",
+        "800": "#0E5814",
+        "900": "#05400A"
+      },
+      "neutrals": {
+        "000": "#FFFFFF",
+        "050": "#F5F7FA",
+        "100": "#E4E7EB",
+        "200": "#CBD2D9",
+        "300": "#9AA5B1",
+        "400": "#52667A",
+        "500": "#313D49",
+        "600": "#29333D",
+        "700": "#212931",
+        "800": "#181F25",
+        "900": "#101418",
+        "999": "#080A0C"
+      }
+    }
+  },
+  "stickers": [
+    "https://media.giphy.com/media/K8Q2SXMwl6QCUdx8pX/giphy.gif",
+    "https://media.giphy.com/media/8CWHx4GxFxti8FHSXS/giphy.gif",
+    "https://media.giphy.com/media/Apsavm9fU1PaNGciWn/giphy.gif",
+    "https://media.giphy.com/media/qJHpscVBRd0Mdj2KTo/giphy.gif?cid=ecf05e478td1j0entvg6rkbu4q389iyolzydf4pls73td050&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/Fq8yjN9Sb3mWNNYniE/giphy.gif?cid=ecf05e47rvo75c85vfh0h99jg6rj8bvvygav34uf6zbwhyej&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/evQiOMFs9MrptU4QVD/giphy.gif?cid=ecf05e47fwvpv3j62rwtfgb7ufblrfdp3rrukwb2d17f1idj&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/7OPuPt052NLlpPjNEs/giphy.gif?cid=ecf05e47n4be7rftzxhigwxobolclq6ompatinrfdo6l1ywf&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/5YvmjAYN946Dzfw3IB/giphy.gif?cid=ecf05e478td1j0entvg6rkbu4q389iyolzydf4pls73td050&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/YWIZpV7na2aN7DYcZt/giphy.gif?cid=ecf05e478td1j0entvg6rkbu4q389iyolzydf4pls73td050&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/HkfoocXPo3NlfvdoiY/giphy.gif?cid=ecf05e478td1j0entvg6rkbu4q389iyolzydf4pls73td050&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/cf5sZb9vfx03OWr2JS/giphy.gif?cid=ecf05e47rvo75c85vfh0h99jg6rj8bvvygav34uf6zbwhyej&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/8CWHx4GxFxti8FHSXS/giphy.gif?cid=ecf05e471wnlhqf0gqbn07carxth6afsstmwkjw9isd1x5pa&rid=giphy.gif&ct=s",
+    "https://media.giphy.com/media/msHXAQOzfD6ZMIp88w/giphy.gif?cid=ecf05e47hsvn7lsd6f9j2isc0if618g266dinpzzcg1i5pwn&rid=giphy.gif&ct=s",
+    "https://media.giphy.com/media/YFEvFewtXtvukjW15d/giphy.gif?cid=ecf05e47hsvn7lsd6f9j2isc0if618g266dinpzzcg1i5pwn&rid=giphy.gif&ct=s",
+    "https://media.giphy.com/media/zwH54fE5yBpEsboaBc/giphy.gif?cid=ecf05e476jh2nyxkyj0yo8tvduzorhroxwds8qdluu9lx5k5&rid=giphy.gif&ct=s",
+    "https://media.giphy.com/media/or5UD3SmqdvHr9iUjG/giphy.gif?cid=ecf05e476jh2nyxkyj0yo8tvduzorhroxwds8qdluu9lx5k5&rid=giphy.gif&ct=s",
+    "https://media.giphy.com/media/xT9IgJ1DPUl0iGm9vG/giphy.gif?cid=ecf05e47j9rw5c66drfpudivibexuz8zr9crulzri2eu5jif&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/oUYL7QKUE4MTe/giphy.gif?cid=ecf05e47j9rw5c66drfpudivibexuz8zr9crulzri2eu5jif&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/9J7i4G04z6eli3hCKF/giphy.gif?cid=ecf05e477uk11ocm2gk5a6jijmjwecf6xw1t8hfcjyqeg083&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/SCFB9A9pbzh04/giphy.gif?cid=ecf05e477uk11ocm2gk5a6jijmjwecf6xw1t8hfcjyqeg083&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/35CoiaB0asJ4nqbJic/giphy.gif?cid=ecf05e47ojloy46z2hvvhlxh06a94u5wyu9jr7v57p0uffd5&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/3o7aCQ4cSRSe2tV9PW/giphy.gif?cid=ecf05e47j9rw5c66drfpudivibexuz8zr9crulzri2eu5jif&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/3ohzdS8tsL9gIPQBVe/giphy.gif?cid=ecf05e47j9rw5c66drfpudivibexuz8zr9crulzri2eu5jif&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/2A3FpfbIyzCdv7SnYt/giphy.gif?cid=ecf05e47zs4cwke12zx60bq8v3c961h376qioor0hrrt9s6i&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/3kGoJpjPElyLRgtTRL/giphy.gif?cid=ecf05e47zs4cwke12zx60bq8v3c961h376qioor0hrrt9s6i&rid=giphy.gif&ct=g",
+    "https://i.pinimg.com/originals/96/34/c5/9634c520c9a3cd4e7f23190bb2c96500.gif"
+  ]
+}
